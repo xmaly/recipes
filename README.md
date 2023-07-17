@@ -1,1 +1,1 @@
-# recipes
+# Simple html project containing recipes.
